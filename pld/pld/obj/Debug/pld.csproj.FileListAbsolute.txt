@@ -1,0 +1,14 @@
+C:\Users\MM\source\repos\pld\pld\bin\Debug\pld.exe.config
+C:\Users\MM\source\repos\pld\pld\bin\Debug\pld.exe
+C:\Users\MM\source\repos\pld\pld\bin\Debug\pld.pdb
+C:\Users\MM\source\repos\pld\pld\bin\Debug\CalithaLib.dll
+C:\Users\MM\source\repos\pld\pld\bin\Debug\GoldParserEngine.dll
+C:\Users\MM\source\repos\pld\pld\obj\Debug\pld.csproj.AssemblyReference.cache
+C:\Users\MM\source\repos\pld\pld\obj\Debug\pld.csproj.SuggestedBindingRedirects.cache
+C:\Users\MM\source\repos\pld\pld\obj\Debug\pld.Form1.resources
+C:\Users\MM\source\repos\pld\pld\obj\Debug\pld.Properties.Resources.resources
+C:\Users\MM\source\repos\pld\pld\obj\Debug\pld.csproj.GenerateResource.cache
+C:\Users\MM\source\repos\pld\pld\obj\Debug\pld.csproj.CoreCompileInputs.cache
+C:\Users\MM\source\repos\pld\pld\obj\Debug\pld.csproj.CopyComplete
+C:\Users\MM\source\repos\pld\pld\obj\Debug\pld.exe
+C:\Users\MM\source\repos\pld\pld\obj\Debug\pld.pdb
